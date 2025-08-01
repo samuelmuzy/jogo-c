@@ -27,11 +27,11 @@ Trabalho desenvolvido para fins acadêmicos.
    ```bash
    git clone https://github.com/seu-usuario/cavernas-da-perdicao.git
    cd cavernas-da-perdicao
-Compile o projeto:
-gcc src/main.c -o jogo
-Execute o jogo:
-./jogo
-É recomendado utilizar um terminal que suporte caracteres especiais para melhor experiência.
+   Compile o projeto:
+   gcc src/main.c -o jogo
+   Execute o jogo:
+   ./jogo
+   É recomendado utilizar um terminal que suporte caracteres especiais para melhor experiência.
 
 ## 👨‍🏫 Projeto Acadêmico
 Este jogo foi desenvolvido como parte do projeto da disciplina de Programação Estruturada (ou equivalente) da faculdade.
